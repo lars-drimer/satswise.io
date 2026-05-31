@@ -154,6 +154,16 @@ article {
   padding-block: clamp(2.5rem, 6vw, 4rem);
 }
 
+/* ─── Article meta ─── */
+.article-meta {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  letter-spacing: 0.02em;
+  padding-block: 1.25rem;
+  border-bottom: 1px solid var(--border-light);
+  margin-bottom: 0;
+}
+
 /* ─── Tip Section ─── */
 .tip {
   padding-block: clamp(2rem, 5vw, 3.5rem);
